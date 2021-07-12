@@ -1,0 +1,19 @@
+{
+
+    "params":
+    {
+        "local_server" : " True",
+        "local_uri" : "mysql+pymysql://root:@localhost/codethunder",
+        "prod_uri" : "mysql+pymysql://root:@localhost/codethunder",
+        "fb_url" : "https://facebook.com/codethunder",
+        "tw_url" : "https://twitter.com/codethunder",
+        "gh_url" : "https://github.com/codethunder",
+        "about_text" : "hi my name is anirudh and i am thd admin of this progrmming blog. You can also contribute here.",
+        "no_of_posts" : 5,
+        "admin_user" : "anirudh",
+        "admin_password" : "mamaearth"
+
+
+    }
+
+}
