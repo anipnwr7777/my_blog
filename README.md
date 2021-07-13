@@ -11,6 +11,14 @@ I have used a microframework named flask in my project.
 
 https://my-code-blogg.herokuapp.com/
 
+
+## Features
+
+- Admin login/logout
+- All the CRUD operations can be done by the admin.
+- Anyone can contact using contact form
+
+
   
 ## Tech used
 
@@ -41,6 +49,13 @@ Install all the dependencies
 ```
 
 Open Xampp as localhost and make a new database named codethunder with two tables named contacts ans posts. Replicate them as shown in the screenshots.
+
+contacts:
+![image](https://user-images.githubusercontent.com/42828778/125503952-bca3f52a-ca35-46b1-9a87-4ce9d705c268.png)
+
+posts:
+![image](https://user-images.githubusercontent.com/42828778/125504048-3ec62472-d4ff-43e2-874e-9d07e81c8c2c.png)
+
 
 Open config.json and modify: // "local_uri" : "mysql+pymysql://root:@localhost/codethunder"
 
