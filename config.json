@@ -3,8 +3,8 @@
     "params":
     {
         "local_server" : " True",
-        "local_uri" : "mysql+pymysql://root:@localhost/codethunder",
-        "prod_uri" : "mysql+pymysql://root:@localhost/codethunder",
+        "local_uri" : "mysql+pymysql://sql11424746:rpqUuELDPI@sql11.freesqldatabase.com/sql11424746",
+        "prod_uri" : "mysql+pymysql://sql11424746:rpqUuELDPI@sql11.freesqldatabase.com/sql11424746",
         "fb_url" : "https://facebook.com/codethunder",
         "tw_url" : "https://twitter.com/codethunder",
         "gh_url" : "https://github.com/codethunder",
@@ -17,3 +17,4 @@
     }
 
 }
+
