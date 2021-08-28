@@ -28,7 +28,7 @@ https://my-code-blogg.herokuapp.com/
 
 **Backend Framework:** Flask
 
-**Database:** MySQL
+**Database:** SQL database
 
 
 
